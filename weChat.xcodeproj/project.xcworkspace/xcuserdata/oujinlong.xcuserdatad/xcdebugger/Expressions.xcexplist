@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__37-[HTTP fetchBuddyListSuccess:failed:]_block_invoke_2:HTTP.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Session sharedSession]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WeChatViewController viewDidLoad]:WeChatViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Session sharedSession]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileViewController createTopWithCell:]:ProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.userModel.portrait">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_msg_trap:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Session sharedSession]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WeChatNavigationController pushViewController:animated:]:WeChatNavigationController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EaseConversationListViewController viewDidLoad]:EaseConversationListViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__45-[HTTP uploadAvatarWithImage:success:failed:]_block_invoke:HTTP.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Session sharedSession].currentUserModel.objectID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__37-[HTTP fetchBuddyListSuccess:failed:]_block_invoke:HTTP.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Session sharedSession]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__37-[HTTP fetchBuddyListSuccess:failed:]_block_invoke_3:HTTP.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[Session sharedSession]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EaseConversationListViewController tableView:numberOfRowsInSection:]:EaseConversationListViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__50-[HTTP loginWithUserName:password:success:failed:]_block_invoke_2:HTTP.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
